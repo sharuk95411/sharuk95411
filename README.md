@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**sharuk95411/sharuk95411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Hi My name is Mohd Shahrukh, I am Computer Science Student
 
 ### My Github profile stats
