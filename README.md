@@ -6,11 +6,12 @@
 
 ### 👋 About Me
 
-🎓 Computer Science student who loves building things with code — from web apps to security-focused projects.
+🎯 Senior SDET (Software Development Engineer in Test) at InfoEdge India Ltd. (99acres), specializing in test automation and quality engineering.
 
-- 🔭 Currently exploring: Web Development & Cybersecurity fundamentals
-- 🌱 Learning: Data Structures & Algorithms (LeetCode/GFG practice)
-- 💬 Ask me about: Java, HTML/CSS, Firebase, SQL/DBMS
+- 🔭 Currently building: AI-powered QA tooling (RAG-based Q&A agents, LangChain + Claude API) and scalable test automation frameworks
+- 🧪 Automation stack: Selenium, Playwright, Appium, REST Assured, TestNG
+- 🌱 Core skills: Java, Spring Boot, Microservices, MySQL, MongoDB, CI/CD (Jenkins)
+- 💬 Ask me about: Test automation architecture, API testing, mobile automation (Android/iOS), and AI-assisted QA tooling
 - ⚡ Fun fact: I built a file encryption tool using SHA-512!
 
 ### 🛠️ Tech Stack
