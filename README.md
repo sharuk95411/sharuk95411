@@ -32,8 +32,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sharuk95411&count_private=true&include_all_commits=true&theme=radical&show_icons=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharuk95411&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=sharuk95411&count_private=true&include_all_commits=true&theme=radical&show_icons=true&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sharuk95411&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
